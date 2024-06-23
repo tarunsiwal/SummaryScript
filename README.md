@@ -1,4 +1,7 @@
 "# SummaryScript" 
+This is a programe code that reads an article, processes it to remove stopwords, computes similarity between sentences, ranks the sentences using PageRank, and finally selects the top sentences to create a summary. This process involves several steps of text processing, vectorization, similarity calculation, and graph-based ranking.
+
+
 Create vertual invironment using this command 
 'python -m venv myenv'
 
